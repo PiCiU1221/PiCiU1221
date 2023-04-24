@@ -30,6 +30,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/piotr-pietrusewicz-0776b425b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piotr%20Pietrusewicz%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/piotr-pietrusewicz-0776b425b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piotr%20Pietrusewicz-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:piotr_pietrusewicz@onet.pl"><img alt="Email" src="https://img.shields.io/badge/Email-piotr_pietrusewicz@onet.pl-blue?style=flat-square&logo=email"></a>
 </p>
