@@ -5,18 +5,18 @@
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![CSS](https://img.shields.io/badge/-CSS-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![JavaScript](https://img.shields.io/badge/-Javascript-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![Node.js](https://img.shields.io/badge/-Node.js-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-  ![PHP](https://img.shields.io/badge/-PHP-%23E44D27?style=flat-square&logo=php&logoColor=ffffff)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 - 🛢 &nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
 
