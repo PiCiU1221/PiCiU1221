@@ -3,20 +3,19 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-29232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - 🛢 &nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <br/>
 
@@ -29,7 +28,5 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/piotr-pietrusewicz-0776b425b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piotr%20Pietrusewicz-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:piotr_pietrusewicz@onet.pl"><img alt="Email" src="https://img.shields.io/badge/Email-piotr_pietrusewicz@onet.pl-blue?style=flat-square&logo=email"></a>
-</p>
+<a href="https://www.linkedin.com/in/piotr-pietrusewicz-0776b425b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piotr%20Pietrusewicz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:piotr_pietrusewicz@onet.pl"><img alt="Email" src="https://img.shields.io/badge/Email-piotr_pietrusewicz@onet.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
