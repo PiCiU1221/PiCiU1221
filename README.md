@@ -1,6 +1,7 @@
-### Hi there! I'm Piotr.
+# Hi there! 👋
 
-<hr>
+Welcome to my page!</br>
+I'm a computer science student from <b>Szczecin, Poland</b>, aspiring to become a <b>Java Backend developer</b>.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
