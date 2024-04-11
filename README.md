@@ -30,5 +30,4 @@ I'm a computer science student from <b>Szczecin, Poland</b>, aspiring to become 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/piotr-pietrusewicz-0776b425b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piotr%20Pietrusewicz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:piotr_pietrusewicz@onet.pl"><img alt="Email" src="https://img.shields.io/badge/Email-piotr_pietrusewicz@onet.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/piotr-pietrusewicz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piotr%20Pietrusewicz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
