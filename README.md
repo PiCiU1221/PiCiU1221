@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 Welcome to my profile!</br>
-I'm a computer science student from <b>Szczecin, Poland</b>, aspiring to become a <b>Java Backend developer</b>.
+I'm a computer science student from <b>Poland</b>, aspiring to become a <b>Java Backend developer</b>.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
